@@ -1,2 +1,2 @@
 # Cloud-Developer-NanoDegree-Program
-AWS Projects form Udacity's Cloud Developer Project
+These repository contains my AWS Projects from Udacity's Cloud Developer Nanodegree Programme
